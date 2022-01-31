@@ -1,4 +1,4 @@
-This repository contains the the main industry-level measures used in [Corporate Flexibility in a Time of Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789) by John W. Barry, Murillo Campello, John R. Graham and Yueran Ma, along with the code to reproduce them.
+This repository contains the main industry-level measures used in [Corporate Flexibility in a Time of Crisis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3778789) by John W. Barry, Murillo Campello, John R. Graham and Yueran Ma, along with the code to reproduce them.
 ## Industry measures
 Please read Section 2 of the paper and the Data Appendix for more detail on construction. The four measures included here are:
 - [Workplace Flexibility](./Out_Data/workplace_flex.csv) - four-digit NAICS measure of ability to move to a remote working environment
