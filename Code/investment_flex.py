@@ -20,7 +20,8 @@ def build_investment_flex():
     try:
         flex_df_in = pd.read_csv("../investment_flex_raw.csv")
     except:
-        print("Invesmtnent flex data not available")
+        # print("Invesmtnent flex data not available publicly")
+        return
     
     naics_titles = get_naics_descr()        
     naics_titles['naics4'] =  naics_titles['naics4'].astype(int)
