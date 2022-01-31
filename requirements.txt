@@ -1,0 +1,3 @@
+###### Required non-standard packages ######
+wrds
+pyDataverse
