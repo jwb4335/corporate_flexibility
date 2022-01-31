@@ -44,9 +44,9 @@ print("Building fixed cost share at 4-digit NAICS...",end = '\n\n')
 fixed_cost_share = build_fixed_cost_share()
 
 ## Save data
-workplace_flex.to_csv("Out_data/workplace_flex.csv",index=False)
-cust_int.to_csv("Out_data/cust_int.csv",index=False)
-fixed_cost_share.to_csv("Out_data/fixed_cost_share.csv",index=False)
+# workplace_flex.to_csv("Out_data/workplace_flex.csv",index=False)
+# cust_int.to_csv("Out_data/cust_int.csv",index=False)
+# fixed_cost_share.to_csv("Out_data/fixed_cost_share.csv",index=False)
 # investment_flex.to_csv("Out_data/investment_flex.csv",index=False)
 
 print("Done!")
