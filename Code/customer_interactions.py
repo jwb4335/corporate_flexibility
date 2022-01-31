@@ -375,6 +375,7 @@ def _map_back_to_naics(naics_matches_hold,naics4,indirect,cons_share):
         
     final = final[['naics4','cust_int','cust_int_indirect','total_linkage','cons_share']]
     
+    ## Need to fix one duplicate ind
     final_7225 =  final.loc[final['naics4'] == 7225]
     
     final_7225_cust_int_ind = (final_7225["cust_int_indirect"]*final_7225['total_linkage']).sum()/(final_7225['total_linkage'].sum())
@@ -389,6 +390,15 @@ def _map_back_to_naics(naics_matches_hold,naics4,indirect,cons_share):
     naics_desc = get_naics_descr(level = 4)
 
     final = final.merge(naics_desc,on = 'naics4',how = 'left')
+    
+    ## rename cust_int to be more clear
+    final = final.rename(columns = {"cust_int":"cust_int_direct"})
+    
+    final['cust_int_tot'] = final['cust_int_direct'] * final['cons_share'] + final['cust_int_indirect'] * (1-final['cons_share'])
+    
+    final = final.reindex(['naics4','naics4_title',
+                           'cust_int_tot','cust_int_direct',
+                           'cust_int_indirect','cons_share'],axis=1)
 
     return final
 
