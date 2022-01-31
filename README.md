@@ -11,7 +11,7 @@ All code is contained in subdirectory [Code](Code/):
 - The file download_data.py contains functions that download the raw data needed for each measure. 
 - workplace_flex.py contains functions that build the workplace flexibility measure
 - investment_flex.py contains functions that build the investment flexibility measure
-  - Please note: the underlying data to build this measure comes from the Duke/CFO survey, which is not available publicly, so only the code to produce the file is included
+  - Please note: the underlying data to build this measure comes from the Duke/CFO survey, which is not available publicly, so only the code to produce the measure and the measure itself are included. 
 - customer_interactions.py contains functions that build the customer interactions measure (direct, indirect, and combined)
 - fixed_cost_share.py contains functions that build the fixed cost share measure
 - The file runfile.py downloads the data and then compiles the four measures
