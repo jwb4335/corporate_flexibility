@@ -3,7 +3,7 @@ This repository contains the main industry-level measures used in [Corporate Fle
 Please read Section 2 of the paper and the Data Appendix for more detail on construction. The four measures included here are:
 - [Workplace Flexibility](./Out_Data/workplace_flex.csv) - four-digit NAICS measure of ability to move to a remote working environment
 - [Investment Flexibility](./Out_Data/investment_flex.csv) - four-digit NAICS measure of flexibility with respect to speed of completion of investment projects
-- [Customer Interactions](./Out_Data/customer_interactions.csv) - four-digit NAICS measure of importance of interactions with customers/consumers to a firm's business that captures both direct customer interactions and "indirect" customer interactions (i.e., the importance of direct customer interactions of downstream industries)
+- [Customer Interactions](./Out_Data/cust_int.csv) - four-digit NAICS measure of importance of interactions with customers/consumers to a firm's business that captures both direct customer interactions and "indirect" customer interactions (i.e., the importance of direct customer interactions of downstream industries)
 - [Fixed cost share](./Out_Data/fixed_cost_share.csv) - four-digit NAICS measure of the relative importance of fixed costs (to variable costs) for a firm's business
 
 ## Code
