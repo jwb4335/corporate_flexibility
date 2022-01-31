@@ -1,147 +1,147 @@
 naics4,naics4_title,fc_ind
-1111.0,Oilseed and Grain Farming,0.3918081119622503
+1111.0,Oilseed and Grain Farming,0.3918081119622504
 1112.0,Vegetable and Melon Farming,0.21173362571494736
-1113.0,Fruit and Tree Nut Farming,0.30053661895544326
-1114.0,"Greenhouse, Nursery, and Floriculture Production",0.42216832698653284
-1119.0,Other Crop Farming,0.4489616107709413
+1113.0,Fruit and Tree Nut Farming,0.30053661895544315
+1114.0,"Greenhouse, Nursery, and Floriculture Production",0.4221683269865327
+1119.0,Other Crop Farming,0.4489616107709411
 1121.0,Cattle Ranching and Farming,0.3811339642792023
-1122.0,Hog and Pig Farming,0.17741607739232879
-1123.0,Poultry and Egg Production,0.4316191596309342
+1122.0,Hog and Pig Farming,0.17741607739232912
+1123.0,Poultry and Egg Production,0.43161915963093433
 1125.0,Aquaculture,0.43366258379585054
-1131.0,Timber Tract Operations,0.3877903389420201
+1131.0,Timber Tract Operations,0.38779033894201964
 1132.0,Forest Nurseries and Gathering of Forest Products,0.497635774448163
 1133.0,Logging,0.3084687528178294
-1141.0,Fishing,0.06145177314458683
-1151.0,Support Activities for Crop Production,0.08492381600804766
-2111.0,Oil and Gas Extraction,0.7153646963778376
+1141.0,Fishing,0.061451773144586386
+1151.0,Support Activities for Crop Production,0.08492381600804777
+2111.0,Oil and Gas Extraction,0.7153646963778375
 2121.0,Coal Mining,0.4422838775093656
-2122.0,Metal Ore Mining,0.6565012463840557
+2122.0,Metal Ore Mining,0.6565012463840556
 2123.0,Nonmetallic Mineral Mining and Quarrying,0.6409277738275041
-2131.0,Support Activities for Mining,0.3805034286927901
-2211.0,"Electric Power Generation, Transmission and Distribution",0.3530959646468702
+2131.0,Support Activities for Mining,0.38050342869278997
+2211.0,"Electric Power Generation, Transmission and Distribution",0.3530959646468701
 2212.0,Natural Gas Distribution,0.1591379645715041
-2213.0,"Water, Sewage and Other Systems",0.6719083942280837
+2213.0,"Water, Sewage and Other Systems",0.6719083942280838
 2361.0,Residential Building Construction,0.16706570835890555
-2362.0,Nonresidential Building Construction,0.3408697718642678
-2371.0,Utility System Construction,0.34351660507842463
+2362.0,Nonresidential Building Construction,0.34086977186426803
+2371.0,Utility System Construction,0.3435166050784245
 2372.0,Land Subdivision,0.4477135974646822
-2373.0,"Highway, Street, and Bridge Construction",0.13355655726504612
-2379.0,Other Heavy and Civil Engineering Construction,0.43673612606045853
+2373.0,"Highway, Street, and Bridge Construction",0.13355655726504634
+2379.0,Other Heavy and Civil Engineering Construction,0.4367361260604584
 2381.0,"Foundation, Structure, and Building Exterior Contractors",0.2807770898921844
-2382.0,Building Equipment Contractors,0.38141122333096833
-2383.0,Building Finishing Contractors,0.28720186958137117
-2389.0,Other Specialty Trade Contractors,0.2869727920795877
-3111.0,Animal Food Manufacturing,0.3155699410893609
-3112.0,Grain and Oilseed Milling,0.4656217050186179
+2382.0,Building Equipment Contractors,0.38141122333096866
+2383.0,Building Finishing Contractors,0.2872018695813713
+2389.0,Other Specialty Trade Contractors,0.2869727920795876
+3111.0,Animal Food Manufacturing,0.31556994108936076
+3112.0,Grain and Oilseed Milling,0.46562170501861755
 3113.0,Sugar and Confectionery Product Manufacturing,0.2980455198838783
-3114.0,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.2777425360049359
+3114.0,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.27774253600493615
 3115.0,Dairy Product Manufacturing,0.37967196652356394
-3116.0,Animal Slaughtering and Processing,0.21601672542235606
+3116.0,Animal Slaughtering and Processing,0.21601672542235595
 3117.0,Seafood Product Preparation and Packaging,0.32402358601941594
-3118.0,Bakeries and Tortilla Manufacturing,0.270874062558892
-3119.0,Other Food Manufacturing,0.42395385348304493
+3118.0,Bakeries and Tortilla Manufacturing,0.2708740625588921
+3119.0,Other Food Manufacturing,0.4239538534830445
 3121.0,Beverage Manufacturing,0.41977771398300723
-3122.0,Tobacco Manufacturing,0.26470998927885847
-3131.0,"Fiber, Yarn, and Thread Mills",0.8162614002286175
+3122.0,Tobacco Manufacturing,0.26470998927885825
+3131.0,"Fiber, Yarn, and Thread Mills",0.8162614002286173
 3132.0,Fabric Mills,0.12502652430537387
 3133.0,Textile and Fabric Finishing and Fabric Coating Mills,0.39631634920189973
-3141.0,Textile Furnishings Mills,0.1458580716807103
-3149.0,Other Textile Product Mills,0.09004947892008497
+3141.0,Textile Furnishings Mills,0.14585807168070986
+3149.0,Other Textile Product Mills,0.09004947892008475
 3151.0,Apparel Knitting Mills,0.2698427264819656
-3152.0,Cut and Sew Apparel Manufacturing,0.30182099901058146
-3159.0,Apparel Accessories and Other Apparel Manufacturing,0.2038468043268825
-3161.0,Leather and Hide Tanning and Finishing,0.07633378366958021
+3152.0,Cut and Sew Apparel Manufacturing,0.30182099901058157
+3159.0,Apparel Accessories and Other Apparel Manufacturing,0.20384680432688274
+3161.0,Leather and Hide Tanning and Finishing,0.07633378366958032
 3162.0,Footwear Manufacturing,0.3006959577760535
-3169.0,Other Leather and Allied Product Manufacturing,0.3023207422655405
+3169.0,Other Leather and Allied Product Manufacturing,0.3023207422655404
 3211.0,Sawmills and Wood Preservation,0.39380086331556163
-3212.0,"Veneer, Plywood, and Engineered Wood Product Manufacturing",0.44815970884458123
+3212.0,"Veneer, Plywood, and Engineered Wood Product Manufacturing",0.44815970884458134
 3219.0,Other Wood Product Manufacturing,0.3687952534725034
-3221.0,"Pulp, Paper, and Paperboard Mills",0.260462093735514
-3222.0,Converted Paper Product Manufacturing,0.2651580485036681
-3231.0,Printing and Related Support Activities,0.35354289471491196
+3221.0,"Pulp, Paper, and Paperboard Mills",0.26046209373551443
+3222.0,Converted Paper Product Manufacturing,0.2651580485036682
+3231.0,Printing and Related Support Activities,0.35354289471491185
 3241.0,Petroleum and Coal Products Manufacturing,0.5472509122188489
-3251.0,Basic Chemical Manufacturing,0.6169989075903027
-3252.0,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",0.7393402704524158
+3251.0,Basic Chemical Manufacturing,0.6169989075903026
+3252.0,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",0.7393402704524159
 3253.0,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",0.49241753872394756
-3254.0,Pharmaceutical and Medicine Manufacturing,0.8856291223163884
-3255.0,"Paint, Coating, and Adhesive Manufacturing",0.48746758020620784
+3254.0,Pharmaceutical and Medicine Manufacturing,0.8856291223163882
+3255.0,"Paint, Coating, and Adhesive Manufacturing",0.48746758020620795
 3256.0,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",0.7001915137840664
 3259.0,Other Chemical Product and Preparation Manufacturing,0.7657720956887282
-3261.0,Plastics Product Manufacturing,0.48211637183661815
-3262.0,Rubber Product Manufacturing,0.4711232330232019
+3261.0,Plastics Product Manufacturing,0.48211637183661804
+3262.0,Rubber Product Manufacturing,0.4711232330232018
 3271.0,Clay Product and Refractory Manufacturing,0.4446372358295261
 3272.0,Glass and Glass Product Manufacturing,0.271624487124279
 3273.0,Cement and Concrete Product Manufacturing,0.42843153842416215
-3274.0,Lime and Gypsum Product Manufacturing,0.19335428375636043
+3274.0,Lime and Gypsum Product Manufacturing,0.19335428375636066
 3279.0,Other Nonmetallic Mineral Product Manufacturing,0.5281922839262773
-3311.0,Iron and Steel Mills and Ferroalloy Manufacturing,0.2373050818904432
-3312.0,Steel Product Manufacturing from Purchased Steel,0.12106856513236663
-3313.0,Alumina and Aluminum Production and Processing,0.7009912819358463
+3311.0,Iron and Steel Mills and Ferroalloy Manufacturing,0.23730508189044341
+3312.0,Steel Product Manufacturing from Purchased Steel,0.12106856513236686
+3313.0,Alumina and Aluminum Production and Processing,0.7009912819358461
 3314.0,Nonferrous Metal (except Aluminum) Production and Processing,0.3635890362104337
-3315.0,Foundries,0.3365432591631723
-3321.0,Forging and Stamping,0.18113584961372786
-3322.0,Cutlery and Handtool Manufacturing,0.16853775832588103
-3323.0,Architectural and Structural Metals Manufacturing,0.3856432762560654
-3324.0,"Boiler, Tank, and Shipping Container Manufacturing",0.3204620876817629
-3325.0,Hardware Manufacturing,0.6375117751836175
-3326.0,Spring and Wire Product Manufacturing,0.20590816987899707
-3327.0,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",0.5382535080036026
-3328.0,"Coating, Engraving, Heat Treating, and Allied Activities",0.6862695240494338
-3329.0,Other Fabricated Metal Product Manufacturing,0.37683520812791826
-3331.0,"Agriculture, Construction, and Mining Machinery Manufacturing",0.38807712081308665
-3332.0,Industrial Machinery Manufacturing,0.5474434743824099
-3333.0,Commercial and Service Industry Machinery Manufacturing,0.6130578349817964
+3315.0,Foundries,0.3365432591631724
+3321.0,Forging and Stamping,0.18113584961372775
+3322.0,Cutlery and Handtool Manufacturing,0.16853775832588125
+3323.0,Architectural and Structural Metals Manufacturing,0.3856432762560653
+3324.0,"Boiler, Tank, and Shipping Container Manufacturing",0.3204620876817631
+3325.0,Hardware Manufacturing,0.6375117751836172
+3326.0,Spring and Wire Product Manufacturing,0.2059081698789974
+3327.0,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",0.5382535080036027
+3328.0,"Coating, Engraving, Heat Treating, and Allied Activities",0.6862695240494336
+3329.0,Other Fabricated Metal Product Manufacturing,0.37683520812791804
+3331.0,"Agriculture, Construction, and Mining Machinery Manufacturing",0.38807712081308654
+3332.0,Industrial Machinery Manufacturing,0.5474434743824098
+3333.0,Commercial and Service Industry Machinery Manufacturing,0.6130578349817963
 3334.0,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",0.47511556627412366
-3335.0,Metalworking Machinery Manufacturing,0.5084641825499334
-3336.0,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.5456129034283873
-3339.0,Other General Purpose Machinery Manufacturing,0.547252297944971
-3341.0,Computer and Peripheral Equipment Manufacturing,0.5705044975351501
+3335.0,Metalworking Machinery Manufacturing,0.5084641825499333
+3336.0,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.5456129034283872
+3339.0,Other General Purpose Machinery Manufacturing,0.5472522979449712
+3341.0,Computer and Peripheral Equipment Manufacturing,0.57050449753515
 3342.0,Communications Equipment Manufacturing,0.5945242642304993
 3343.0,Audio and Video Equipment Manufacturing,0.4858810231189148
-3344.0,Semiconductor and Other Electronic Component Manufacturing,0.5930860035450893
-3345.0,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",0.7252863773320258
+3344.0,Semiconductor and Other Electronic Component Manufacturing,0.5930860035450892
+3345.0,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",0.7252863773320259
 3346.0,Manufacturing and Reproducing Magnetic and Optical Media,0.4504079258073147
-3351.0,Electric Lighting Equipment Manufacturing,0.40310334823596194
-3352.0,Household Appliance Manufacturing,0.17952914409742293
-3353.0,Electrical Equipment Manufacturing,0.6409876372158272
-3359.0,Other Electrical Equipment and Component Manufacturing,0.6053746768282277
-3361.0,Motor Vehicle Manufacturing,0.48859635008539326
-3362.0,Motor Vehicle Body and Trailer Manufacturing,0.45610250039487377
-3363.0,Motor Vehicle Parts Manufacturing,0.5186545323556235
-3364.0,Aerospace Product and Parts Manufacturing,0.4908854480007856
-3365.0,Railroad Rolling Stock Manufacturing,0.23514008993690638
-3366.0,Ship and Boat Building,0.3289240265927087
-3369.0,Other Transportation Equipment Manufacturing,0.35805692000183253
-3371.0,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,0.22842652470499358
-3372.0,Office Furniture (including Fixtures) Manufacturing,0.2235413240029107
-3379.0,Other Furniture Related Product Manufacturing,0.18777743606438013
-3391.0,Medical Equipment and Supplies Manufacturing,0.7614513469386047
-3399.0,Other Miscellaneous Manufacturing,0.38451201831893755
-4231.0,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.24135489936783694
+3351.0,Electric Lighting Equipment Manufacturing,0.40310334823596183
+3352.0,Household Appliance Manufacturing,0.17952914409742282
+3353.0,Electrical Equipment Manufacturing,0.6409876372158271
+3359.0,Other Electrical Equipment and Component Manufacturing,0.6053746768282275
+3361.0,Motor Vehicle Manufacturing,0.48859635008539337
+3362.0,Motor Vehicle Body and Trailer Manufacturing,0.45610250039487366
+3363.0,Motor Vehicle Parts Manufacturing,0.5186545323556234
+3364.0,Aerospace Product and Parts Manufacturing,0.4908854480007854
+3365.0,Railroad Rolling Stock Manufacturing,0.23514008993690605
+3366.0,Ship and Boat Building,0.3289240265927085
+3369.0,Other Transportation Equipment Manufacturing,0.3580569200018324
+3371.0,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,0.22842652470499347
+3372.0,Office Furniture (including Fixtures) Manufacturing,0.22354132400291082
+3379.0,Other Furniture Related Product Manufacturing,0.18777743606438024
+3391.0,Medical Equipment and Supplies Manufacturing,0.7614513469386048
+3399.0,Other Miscellaneous Manufacturing,0.38451201831893744
+4231.0,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.24135489936783683
 4232.0,Furniture and Home Furnishing Merchant Wholesalers,0.43409458662778966
-4233.0,Lumber and Other Construction Materials Merchant Wholesalers,0.34115248984120194
-4234.0,Professional and Commercial Equipment and Supplies Merchant Wholesalers,0.43911744069490777
-4235.0,Metal and Mineral (except Petroleum) Merchant Wholesalers,0.3305243211988911
-4236.0,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,0.3399754916370199
-4237.0,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",0.23260884574175855
-4238.0,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.2805981468194101
-4239.0,Miscellaneous Durable Goods Merchant Wholesalers,0.4352918392623193
+4233.0,Lumber and Other Construction Materials Merchant Wholesalers,0.34115248984120217
+4234.0,Professional and Commercial Equipment and Supplies Merchant Wholesalers,0.43911744069490766
+4235.0,Metal and Mineral (except Petroleum) Merchant Wholesalers,0.3305243211988912
+4236.0,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,0.3399754916370197
+4237.0,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",0.23260884574175877
+4238.0,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.2805981468194102
+4239.0,Miscellaneous Durable Goods Merchant Wholesalers,0.43529183926231907
 4241.0,Paper and Paper Product Merchant Wholesalers,0.604357303633245
-4242.0,Drugs and Druggists' Sundries Merchant Wholesalers,0.45242673203038064
-4243.0,"Apparel, Piece Goods, and Notions Merchant Wholesalers",0.3661736264054618
+4242.0,Drugs and Druggists' Sundries Merchant Wholesalers,0.45242673203038075
+4243.0,"Apparel, Piece Goods, and Notions Merchant Wholesalers",0.3661736264054617
 4244.0,Grocery and Related Product Merchant Wholesalers,0.38283001472808986
-4245.0,Farm Product Raw Material Merchant Wholesalers,0.1304110052106845
-4246.0,Chemical and Allied Products Merchant Wholesalers,0.5657711734510249
-4247.0,Petroleum and Petroleum Products Merchant Wholesalers,0.2917651477858084
-4248.0,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",0.46827585374058556
-4249.0,Miscellaneous Nondurable Goods Merchant Wholesalers,0.24919577740454535
-4251.0,Wholesale Electronic Markets and Agents and Brokers,0.5279169181914264
+4245.0,Farm Product Raw Material Merchant Wholesalers,0.13041100521068438
+4246.0,Chemical and Allied Products Merchant Wholesalers,0.5657711734510248
+4247.0,Petroleum and Petroleum Products Merchant Wholesalers,0.2917651477858082
+4248.0,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",0.4682758537405858
+4249.0,Miscellaneous Nondurable Goods Merchant Wholesalers,0.24919577740454524
+4251.0,Wholesale Electronic Markets and Agents and Brokers,0.5279169181914263
 4411.0,Automobile Dealers,0.22557241475949996
-4412.0,Other Motor Vehicle Dealers,0.19396613556854125
-4413.0,"Automotive Parts, Accessories, and Tire Stores",0.09823946144411277
-4421.0,Furniture Stores,0.2265499353199123
-4422.0,Home Furnishings Stores,0.2993093108251612
-4431.0,Electronics and Appliance Stores,0.21971519054293231
+4412.0,Other Motor Vehicle Dealers,0.1939661355685416
+4413.0,"Automotive Parts, Accessories, and Tire Stores",0.09823946144411266
+4421.0,Furniture Stores,0.22654993531991274
+4422.0,Home Furnishings Stores,0.299309310825161
+4431.0,Electronics and Appliance Stores,0.21971519054293243
 4441.0,Building Material and Supplies Dealers,0.08392565055875023
 4442.0,Lawn and Garden Equipment and Supplies Stores,0.3393111511948006
 4451.0,Grocery Stores,0.04925295953406095
@@ -149,135 +149,135 @@ naics4,naics4_title,fc_ind
 4453.0,"Beer, Wine, and Liquor Stores",0.11863173118965387
 4461.0,Health and Personal Care Stores,0.2726899556150104
 4471.0,Gasoline Stations,0.16304137411937947
-4481.0,Clothing Stores,0.24180862837166806
-4482.0,Shoe Stores,0.24351287955972867
-4483.0,"Jewelry, Luggage, and Leather Goods Stores",0.21061403500599063
-4511.0,"Sporting Goods, Hobby, and Musical Instrument Stores",0.18426302718142396
+4481.0,Clothing Stores,0.24180862837166783
+4482.0,Shoe Stores,0.24351287955972856
+4483.0,"Jewelry, Luggage, and Leather Goods Stores",0.2106140350059904
+4511.0,"Sporting Goods, Hobby, and Musical Instrument Stores",0.1842630271814244
 4512.0,Book Stores and News Dealers,0.2621888179944982
-4522.0,Department Stores,0.16545526340472405
-4523.0,"General Merchandise Stores, including Warehouse Clubs and Supercenters",0.23292011109031674
-4531.0,Florists,0.1356278371014873
-4532.0,"Office Supplies, Stationery, and Gift Stores",0.211031241396326
+4522.0,Department Stores,0.16545526340472394
+4523.0,"General Merchandise Stores, including Warehouse Clubs and Supercenters",0.23292011109031652
+4531.0,Florists,0.13562783710148774
+4532.0,"Office Supplies, Stationery, and Gift Stores",0.21103124139632579
 4533.0,Used Merchandise Stores,0.22719529623530088
 4539.0,Other Miscellaneous Store Retailers,0.31369001928875306
 4541.0,Electronic Shopping and Mail-Order Houses,0.3096420045209153
-4542.0,Vending Machine Operators,0.7043304973329876
+4542.0,Vending Machine Operators,0.7043304973329874
 4543.0,Direct Selling Establishments,0.2923666598007866
-4811.0,Scheduled Air Transportation,0.42454920854863354
+4811.0,Scheduled Air Transportation,0.42454920854863365
 4812.0,Nonscheduled Air Transportation,0.5420166110395144
-4821.0,Rail Transportation,0.28162822230793716
+4821.0,Rail Transportation,0.28162822230793694
 4831.0,"Deep Sea, Coastal, and Great Lakes Water Transportation",0.48567669002402525
 4832.0,Inland Water Transportation,0.26815558563021
-4841.0,General Freight Trucking,0.1642180358799057
+4841.0,General Freight Trucking,0.16421803587990547
 4842.0,Specialized Freight Trucking,0.7028250634258548
 4851.0,Urban Transit Systems,1.0496682845403067
-4852.0,Interurban and Rural Bus Transportation,0.5122271807845135
-4853.0,Taxi and Limousine Service,0.3996578910902169
-4854.0,School and Employee Bus Transportation,0.25451544875795784
-4859.0,Other Transit and Ground Passenger Transportation,0.0006216474974813924
-4861.0,Pipeline Transportation of Crude Oil,0.13585159484839382
-4862.0,Pipeline Transportation of Natural Gas,0.41328769456292047
-4869.0,Other Pipeline Transportation,0.23766766187982824
+4852.0,Interurban and Rural Bus Transportation,0.5122271807845131
+4853.0,Taxi and Limousine Service,0.39965789109021677
+4854.0,School and Employee Bus Transportation,0.25451544875795773
+4859.0,Other Transit and Ground Passenger Transportation,0.0006216474974816144
+4861.0,Pipeline Transportation of Crude Oil,0.1358515948483936
+4862.0,Pipeline Transportation of Natural Gas,0.41328769456292025
+4869.0,Other Pipeline Transportation,0.23766766187982813
 4871.0,"Scenic and Sightseeing Transportation, Land",-0.0528262921560696
 4872.0,"Scenic and Sightseeing Transportation, Water",0.8164481755596243
-4881.0,Support Activities for Air Transportation,0.19012121347803268
+4881.0,Support Activities for Air Transportation,0.190121213478033
 4883.0,Support Activities for Water Transportation,0.7988030194942848
-4884.0,Support Activities for Road Transportation,0.11689546081882163
-4885.0,Freight Transportation Arrangement,0.33006200030520283
-4889.0,Other Support Activities for Transportation,0.594039830066525
+4884.0,Support Activities for Road Transportation,0.11689546081882185
+4885.0,Freight Transportation Arrangement,0.3300620003052026
+4889.0,Other Support Activities for Transportation,0.5940398300665247
 4911.0,Postal Service,0.5975634526067963
 4921.0,Couriers and Express Delivery Services,0.32205035017248496
-4922.0,Local Messengers and Local Delivery,0.22879797065769536
+4922.0,Local Messengers and Local Delivery,0.22879797065769525
 4931.0,Warehousing and Storage,0.010859752076791906
-5111.0,"Newspaper, Periodical, Book, and Directory Publishers",0.5933100392372467
+5111.0,"Newspaper, Periodical, Book, and Directory Publishers",0.5933100392372466
 5112.0,Software Publishers,0.7213649106453486
 5121.0,Motion Picture and Video Industries,0.6092231709051616
-5122.0,Sound Recording Industries,0.5904641800455478
-5151.0,Radio and Television Broadcasting,0.5448627443009524
+5122.0,Sound Recording Industries,0.5904641800455479
+5151.0,Radio and Television Broadcasting,0.5448627443009523
 5152.0,Cable and Other Subscription Programming,0.2598001640974772
-5173.0,Wired and Wireless Telecommunications Carriers,0.385609697807047
-5174.0,Satellite Telecommunications,0.48046086127034293
-5179.0,Other Telecommunications,0.627106909110187
-5182.0,"Data Processing, Hosting, and Related Services",0.611043729357231
+5173.0,Wired and Wireless Telecommunications Carriers,0.3856096978070468
+5174.0,Satellite Telecommunications,0.48046086127034315
+5179.0,Other Telecommunications,0.6271069091101871
+5182.0,"Data Processing, Hosting, and Related Services",0.6110437293572308
 5191.0,Other Information Services,0.6568171096188542
-5221.0,Depository Credit Intermediation,0.4314703975257902
-5222.0,Nondepository Credit Intermediation,0.6756936273445193
-5223.0,Activities Related to Credit Intermediation,0.6758857336703513
+5221.0,Depository Credit Intermediation,0.4314703975257901
+5222.0,Nondepository Credit Intermediation,0.6756936273445192
+5223.0,Activities Related to Credit Intermediation,0.6758857336703512
 5231.0,Securities and Commodity Contracts Intermediation and Brokerage,0.5569298882341573
-5232.0,Securities and Commodity Exchanges,0.26791234279332243
+5232.0,Securities and Commodity Exchanges,0.26791234279332254
 5239.0,Other Financial Investment Activities,0.7807150929488881
-5241.0,Insurance Carriers,0.4804641045220803
+5241.0,Insurance Carriers,0.48046410452208044
 5242.0,"Agencies, Brokerages, and Other Insurance Related Activities",0.47500564538039813
 5251.0,Insurance and Employee Benefit Funds,0.3746418965112981
-5259.0,Other Investment Pools and Funds,0.6490683134488656
-5311.0,Lessors of Real Estate,0.4938591973231611
-5312.0,Offices of Real Estate Agents and Brokers,0.4744196707795759
-5313.0,Activities Related to Real Estate,0.6245246587839248
-5321.0,Automotive Equipment Rental and Leasing,0.5106395571625235
+5259.0,Other Investment Pools and Funds,0.6490683134488655
+5311.0,Lessors of Real Estate,0.49385919732316097
+5312.0,Offices of Real Estate Agents and Brokers,0.4744196707795758
+5313.0,Activities Related to Real Estate,0.6245246587839246
+5321.0,Automotive Equipment Rental and Leasing,0.5106395571625234
 5322.0,Consumer Goods Rental,0.5126160455395536
-5323.0,General Rental Centers,0.19267161905332109
+5323.0,General Rental Centers,0.19267161905332086
 5324.0,Commercial and Industrial Machinery and Equipment Rental and Leasing,0.37719810537524
-5331.0,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),0.7863242529261605
-5411.0,Legal Services,0.44225590216453803
-5412.0,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",0.43448648956548885
+5331.0,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),0.7863242529261604
+5411.0,Legal Services,0.44225590216453814
+5412.0,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",0.43448648956548874
 5413.0,"Architectural, Engineering, and Related Services",0.4960312051641933
 5414.0,Specialized Design Services,0.5394407632866326
-5415.0,Computer Systems Design and Related Services,0.5968940486926413
-5416.0,"Management, Scientific, and Technical Consulting Services",0.5505176159354536
+5415.0,Computer Systems Design and Related Services,0.5968940486926411
+5416.0,"Management, Scientific, and Technical Consulting Services",0.5505176159354533
 5417.0,Scientific Research and Development Services,0.8560690305490952
-5418.0,"Advertising, Public Relations, and Related Services",0.5545017040967347
-5419.0,"Other Professional, Scientific, and Technical Services",0.6003269987895156
-5611.0,Office Administrative Services,0.5450888687817953
+5418.0,"Advertising, Public Relations, and Related Services",0.5545017040967346
+5419.0,"Other Professional, Scientific, and Technical Services",0.6003269987895157
+5611.0,Office Administrative Services,0.5450888687817952
 5612.0,Facilities Support Services,0.5470774177963619
-5613.0,Employment Services,0.33751957498194085
-5614.0,Business Support Services,0.4654382783975888
+5613.0,Employment Services,0.33751957498194096
+5614.0,Business Support Services,0.46543827839758867
 5615.0,Travel Arrangement and Reservation Services,0.6666051110206103
-5616.0,Investigation and Security Services,0.22122460152643897
+5616.0,Investigation and Security Services,0.22122460152643875
 5617.0,Services to Buildings and Dwellings,0.42547480734911924
 5619.0,Other Support Services,0.6150330262934612
 5621.0,Waste Collection,0.558087633611872
 5622.0,Waste Treatment and Disposal,0.5650875137491804
-5629.0,Remediation and Other Waste Management Services,0.45596340053342865
+5629.0,Remediation and Other Waste Management Services,0.45596340053342854
 6111.0,Elementary and Secondary Schools,0.4203960784416382
-6112.0,Junior Colleges,0.3926535220401046
+6112.0,Junior Colleges,0.39265352204010484
 6113.0,"Colleges, Universities, and Professional Schools",0.7934946514132848
-6114.0,Business Schools and Computer and Management Training,0.5394984972903052
-6115.0,Technical and Trade Schools,0.4520070451851471
+6114.0,Business Schools and Computer and Management Training,0.539498497290305
+6115.0,Technical and Trade Schools,0.452007045185147
 6116.0,Other Schools and Instruction,0.5499335511023469
-6117.0,Educational Support Services,0.6502356362498776
-6211.0,Offices of Physicians,0.5209211521070694
-6212.0,Offices of Dentists,0.11443525958883305
-6213.0,Offices of Other Health Practitioners,0.8876347958525407
-6214.0,Outpatient Care Centers,0.5466499695541295
+6117.0,Educational Support Services,0.6502356362498777
+6211.0,Offices of Physicians,0.5209211521070692
+6212.0,Offices of Dentists,0.11443525958883272
+6213.0,Offices of Other Health Practitioners,0.8876347958525406
+6214.0,Outpatient Care Centers,0.5466499695541294
 6215.0,Medical and Diagnostic Laboratories,0.7320421027706256
-6216.0,Home Health Care Services,0.4204671177573317
+6216.0,Home Health Care Services,0.4204671177573318
 6219.0,Other Ambulatory Health Care Services,0.6586932945511432
-6221.0,General Medical and Surgical Hospitals,0.5098195829197041
+6221.0,General Medical and Surgical Hospitals,0.5098195829197042
 6222.0,Psychiatric and Substance Abuse Hospitals,0.6396758430625302
 6223.0,Specialty (except Psychiatric and Substance Abuse) Hospitals,0.43637007918537485
-6231.0,Nursing Care Facilities (Skilled Nursing Facilities),0.26040908717487676
-6232.0,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",0.6809717415904855
-6233.0,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,0.3183303384767653
-6239.0,Other Residential Care Facilities,0.14462493376038765
+6231.0,Nursing Care Facilities (Skilled Nursing Facilities),0.260409087174877
+6232.0,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",0.6809717415904852
+6233.0,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,0.31833033847676506
+6239.0,Other Residential Care Facilities,0.14462493376038732
 6241.0,Individual and Family Services,0.3734470010308013
 6244.0,Child Day Care Services,0.06906246756219692
-7111.0,Performing Arts Companies,0.3185011243532365
+7111.0,Performing Arts Companies,0.3185011243532361
 7112.0,Spectator Sports,0.39789782486511305
-7113.0,"Promoters of Performing Arts, Sports, and Similar Events",0.299491462355609
+7113.0,"Promoters of Performing Arts, Sports, and Similar Events",0.29949146235560886
 7114.0,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.8500847289334434
-7131.0,Amusement Parks and Arcades,0.5249898495337486
+7131.0,Amusement Parks and Arcades,0.5249898495337487
 7132.0,Gambling Industries,0.558090048029569
-7139.0,Other Amusement and Recreation Industries,0.4702652250625825
-7211.0,Traveler Accommodation,0.4719189065271707
-7212.0,RV (Recreational Vehicle) Parks and Recreational Camps,0.6264715968874154
-7223.0,Special Food Services,0.1557514001942668
+7139.0,Other Amusement and Recreation Industries,0.4702652250625826
+7211.0,Traveler Accommodation,0.47191890652717083
+7212.0,RV (Recreational Vehicle) Parks and Recreational Camps,0.6264715968874153
+7223.0,Special Food Services,0.1557514001942666
 7224.0,Drinking Places (Alcoholic Beverages),0.6066097202530217
-7225.0,Restaurants and Other Eating Places,0.24778061366688242
-8111.0,Automotive Repair and Maintenance,0.518314064022914
-8112.0,Electronic and Precision Equipment Repair and Maintenance,0.2549180628900891
-8113.0,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.18180010651333367
-8121.0,Personal Care Services,0.23628860115810024
-8122.0,Death Care Services,0.26606163905072755
-8123.0,Drycleaning and Laundry Services,0.554538182729764
-8129.0,Other Personal Services,0.38528217992509217
-8139.0,"Business, Professional, Labor, Political, and Similar Organizations",0.13025040826853163
+7225.0,Restaurants and Other Eating Places,0.2477806136668821
+8111.0,Automotive Repair and Maintenance,0.5183140640229138
+8112.0,Electronic and Precision Equipment Repair and Maintenance,0.25491806289008934
+8113.0,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.18180010651333356
+8121.0,Personal Care Services,0.23628860115810035
+8122.0,Death Care Services,0.2660616390507273
+8123.0,Drycleaning and Laundry Services,0.5545381827297637
+8129.0,Other Personal Services,0.38528217992509206
+8139.0,"Business, Professional, Labor, Political, and Similar Organizations",0.13025040826853174

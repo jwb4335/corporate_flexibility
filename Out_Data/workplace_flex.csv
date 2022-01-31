@@ -2,9 +2,9 @@ naics4,naics4_title,workfromhome
 1131.0,Timber Tract Operations,0.14655919772098155
 1132.0,Forest Nurseries and Gathering of Forest Products,0.14655919772098155
 1133.0,Logging,0.0
-1151.0,Support Activities for Crop Production,0.09665656405065678
-1152.0,Support Activities for Animal Production,0.09665656405065678
-1153.0,Support Activities for Forestry,0.09665656405065678
+1151.0,Support Activities for Crop Production,0.09665656405065677
+1152.0,Support Activities for Animal Production,0.09665656405065677
+1153.0,Support Activities for Forestry,0.09665656405065677
 2111.0,Oil and Gas Extraction,0.2448614832674265
 2121.0,Coal Mining,0.0
 2122.0,Metal Ore Mining,0.0
@@ -26,15 +26,15 @@ naics4,naics4_title,workfromhome
 3111.0,Animal Food Manufacturing,0.21797897768283334
 3112.0,Grain and Oilseed Milling,0.21797897768283334
 3113.0,Sugar and Confectionery Product Manufacturing,0.0
-3114.0,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.17598632775649617
+3114.0,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.1759863277564962
 3115.0,Dairy Product Manufacturing,0.07732259890240628
 3116.0,Animal Slaughtering and Processing,0.00814563889721098
 3117.0,Seafood Product Preparation and Packaging,0.23420704942810502
-3118.0,Bakeries and Tortilla Manufacturing,0.08917058062962452
+3118.0,Bakeries and Tortilla Manufacturing,0.0891705806296245
 3119.0,Other Food Manufacturing,0.23420704942810502
 3121.0,Beverage Manufacturing,0.3594686272411485
 3122.0,Tobacco Manufacturing,1.0
-3132.0,Fabric Mills,0.11509976815432757
+3132.0,Fabric Mills,0.11509976815432758
 3141.0,Textile Furnishings Mills,0.10617685897808335
 3149.0,Other Textile Product Mills,0.0
 3151.0,Apparel Knitting Mills,0.0
@@ -51,8 +51,8 @@ naics4,naics4_title,workfromhome
 3252.0,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",0.08220917003902704
 3253.0,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",0.0
 3254.0,Pharmaceutical and Medicine Manufacturing,0.5478143679053069
-3255.0,"Paint, Coating, and Adhesive Manufacturing",0.4127398209868466
-3256.0,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",0.11059319457269416
+3255.0,"Paint, Coating, and Adhesive Manufacturing",0.41273982098684653
+3256.0,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",0.11059319457269419
 3259.0,Other Chemical Product and Preparation Manufacturing,0.18960906709209047
 3261.0,Plastics Product Manufacturing,0.02101329304782821
 3262.0,Rubber Product Manufacturing,0.11361095055918419
@@ -82,12 +82,12 @@ naics4,naics4_title,workfromhome
 3335.0,Metalworking Machinery Manufacturing,0.20171797497224012
 3336.0,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.3273847199755811
 3339.0,Other General Purpose Machinery Manufacturing,0.13841440897022275
-3341.0,Computer and Peripheral Equipment Manufacturing,0.3517020070790665
+3341.0,Computer and Peripheral Equipment Manufacturing,0.35170200707906657
 3342.0,Communications Equipment Manufacturing,0.5375492350366791
 3343.0,Audio and Video Equipment Manufacturing,0.5375492350366791
-3344.0,Semiconductor and Other Electronic Component Manufacturing,0.18139068291152002
+3344.0,Semiconductor and Other Electronic Component Manufacturing,0.18139068291152005
 3345.0,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",0.33636804204117526
-3346.0,Manufacturing and Reproducing Magnetic and Optical Media,0.18139068291152002
+3346.0,Manufacturing and Reproducing Magnetic and Optical Media,0.18139068291152005
 3351.0,Electric Lighting Equipment Manufacturing,0.0706830428625349
 3352.0,Household Appliance Manufacturing,0.15693384299977242
 3353.0,Electrical Equipment Manufacturing,0.0706830428625349
@@ -103,16 +103,16 @@ naics4,naics4_title,workfromhome
 3372.0,Office Furniture (including Fixtures) Manufacturing,0.1354417369099695
 3379.0,Other Furniture Related Product Manufacturing,0.1354417369099695
 3391.0,Medical Equipment and Supplies Manufacturing,0.37108690849828097
-3399.0,Other Miscellaneous Manufacturing,0.10847373518773977
+3399.0,Other Miscellaneous Manufacturing,0.1084737351877398
 4231.0,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.11229664759414319
 4232.0,Furniture and Home Furnishing Merchant Wholesalers,0.0
-4233.0,Lumber and Other Construction Materials Merchant Wholesalers,0.362469531772415
+4233.0,Lumber and Other Construction Materials Merchant Wholesalers,0.36246953177241503
 4234.0,Professional and Commercial Equipment and Supplies Merchant Wholesalers,0.31530463240805506
 4235.0,Metal and Mineral (except Petroleum) Merchant Wholesalers,0.0
 4236.0,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,0.08526941077766392
-4237.0,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",0.018442185672523786
+4237.0,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",0.018442185672523783
 4238.0,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.18359176161990723
-4239.0,Miscellaneous Durable Goods Merchant Wholesalers,0.3360151729740389
+4239.0,Miscellaneous Durable Goods Merchant Wholesalers,0.33601517297403893
 4241.0,Paper and Paper Product Merchant Wholesalers,0.0
 4242.0,Drugs and Druggists' Sundries Merchant Wholesalers,0.4005898088080314
 4243.0,"Apparel, Piece Goods, and Notions Merchant Wholesalers",0.08162967291141171
@@ -121,7 +121,7 @@ naics4,naics4_title,workfromhome
 4246.0,Chemical and Allied Products Merchant Wholesalers,0.4005898088080314
 4247.0,Petroleum and Petroleum Products Merchant Wholesalers,0.2143591334774866
 4248.0,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",0.06877840993840974
-4249.0,Miscellaneous Nondurable Goods Merchant Wholesalers,0.5160809491856502
+4249.0,Miscellaneous Nondurable Goods Merchant Wholesalers,0.5160809491856501
 4251.0,Wholesale Electronic Markets and Agents and Brokers,0.0
 4411.0,Automobile Dealers,0.01392298569036595
 4412.0,Other Motor Vehicle Dealers,0.1468644043755965
@@ -129,7 +129,7 @@ naics4,naics4_title,workfromhome
 4421.0,Furniture Stores,0.1322414682690135
 4422.0,Home Furnishings Stores,0.1322414682690135
 4431.0,Electronics and Appliance Stores,0.10478945978054344
-4441.0,Building Material and Supplies Dealers,0.10652708966587628
+4441.0,Building Material and Supplies Dealers,0.10652708966587626
 4442.0,Lawn and Garden Equipment and Supplies Stores,0.07395824324839742
 4451.0,Grocery Stores,0.020139539307257783
 4452.0,Specialty Food Stores,0.0
@@ -137,23 +137,23 @@ naics4,naics4_title,workfromhome
 4461.0,Health and Personal Care Stores,0.10841334878636161
 4471.0,Gasoline Stations,0.017071624523869167
 4481.0,Clothing Stores,0.036438860646077764
-4482.0,Shoe Stores,0.06344649285358737
+4482.0,Shoe Stores,0.06344649285358736
 4483.0,"Jewelry, Luggage, and Leather Goods Stores",0.0
 4511.0,"Sporting Goods, Hobby, and Musical Instrument Stores",0.0543925370644744
 4512.0,Book Stores and News Dealers,0.040523863576940815
 4531.0,Florists,0.0
 4532.0,"Office Supplies, Stationery, and Gift Stores",0.031204522749495766
-4533.0,Used Merchandise Stores,0.04388599810752492
-4539.0,Other Miscellaneous Store Retailers,0.011443975276147305
-4541.0,Electronic Shopping and Mail-Order Houses,0.14718436911443214
+4533.0,Used Merchandise Stores,0.04388599810752493
+4539.0,Other Miscellaneous Store Retailers,0.011443975276147307
+4541.0,Electronic Shopping and Mail-Order Houses,0.1471843691144321
 4542.0,Vending Machine Operators,0.0
-4543.0,Direct Selling Establishments,0.05161774132433051
+4543.0,Direct Selling Establishments,0.051617741324330516
 4811.0,Scheduled Air Transportation,0.12077871271322867
 4812.0,Nonscheduled Air Transportation,0.12077871271322867
 4831.0,"Deep Sea, Coastal, and Great Lakes Water Transportation",0.0
 4832.0,Inland Water Transportation,0.0
-4841.0,General Freight Trucking,0.04656117246771558
-4842.0,Specialized Freight Trucking,0.04656117246771558
+4841.0,General Freight Trucking,0.04656117246771557
+4842.0,Specialized Freight Trucking,0.04656117246771557
 4851.0,Urban Transit Systems,0.04259193485417718
 4852.0,Interurban and Rural Bus Transportation,0.04259193485417718
 4853.0,Taxi and Limousine Service,0.0
@@ -172,19 +172,19 @@ naics4,naics4_title,workfromhome
 4884.0,Support Activities for Road Transportation,0.05903466089715206
 4885.0,Freight Transportation Arrangement,0.05903466089715206
 4889.0,Other Support Activities for Transportation,0.05903466089715206
-4921.0,Couriers and Express Delivery Services,0.13107351006835036
-4922.0,Local Messengers and Local Delivery,0.13107351006835036
+4921.0,Couriers and Express Delivery Services,0.13107351006835033
+4922.0,Local Messengers and Local Delivery,0.13107351006835033
 4931.0,Warehousing and Storage,0.037498556565669056
 5111.0,"Newspaper, Periodical, Book, and Directory Publishers",0.30224790631952075
 5112.0,Software Publishers,0.6200376997486015
-5121.0,Motion Picture and Video Industries,0.1788429182571547
+5121.0,Motion Picture and Video Industries,0.17884291825715473
 5122.0,Sound Recording Industries,0.0
-5151.0,Radio and Television Broadcasting,0.19276010292267842
-5152.0,Cable and Other Subscription Programming,0.19276010292267842
+5151.0,Radio and Television Broadcasting,0.19276010292267845
+5152.0,Cable and Other Subscription Programming,0.19276010292267845
 5174.0,Satellite Telecommunications,0.4448375513704014
 5179.0,Other Telecommunications,0.4448375513704014
-5182.0,"Data Processing, Hosting, and Related Services",0.7278136924111542
-5191.0,Other Information Services,0.2780890662940585
+5182.0,"Data Processing, Hosting, and Related Services",0.7278136924111543
+5191.0,Other Information Services,0.27808906629405855
 5211.0,Monetary Authorities-Central Bank,0.2322039478312863
 5221.0,Depository Credit Intermediation,0.23438469241031473
 5222.0,Nondepository Credit Intermediation,0.31185082273436976
@@ -204,15 +204,15 @@ naics4,naics4_title,workfromhome
 5324.0,Commercial and Industrial Machinery and Equipment Rental and Leasing,0.02821073225361076
 5331.0,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),0.02821073225361076
 5411.0,Legal Services,0.3293299782692006
-5412.0,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",0.40158441995572297
+5412.0,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",0.4015844199557229
 5413.0,"Architectural, Engineering, and Related Services",0.3669660539801546
 5414.0,Specialized Design Services,0.762682406834067
-5415.0,Computer Systems Design and Related Services,0.5926814443376902
-5416.0,"Management, Scientific, and Technical Consulting Services",0.38693109995242625
+5415.0,Computer Systems Design and Related Services,0.5926814443376901
+5416.0,"Management, Scientific, and Technical Consulting Services",0.3869310999524263
 5417.0,Scientific Research and Development Services,0.404040781979325
-5418.0,"Advertising, Public Relations, and Related Services",0.2952986667027987
-5419.0,"Other Professional, Scientific, and Technical Services",0.28981326582665723
-5511.0,Management of Companies and Enterprises,0.31246703392888153
+5418.0,"Advertising, Public Relations, and Related Services",0.29529866670279875
+5419.0,"Other Professional, Scientific, and Technical Services",0.2898132658266573
+5511.0,Management of Companies and Enterprises,0.3124670339288816
 5611.0,Office Administrative Services,0.11972767651932857
 5612.0,Facilities Support Services,0.11972767651932857
 5613.0,Employment Services,0.09449369059879224
@@ -224,15 +224,15 @@ naics4,naics4_title,workfromhome
 5621.0,Waste Collection,0.016914330033596953
 5622.0,Waste Treatment and Disposal,0.016914330033596953
 5629.0,Remediation and Other Waste Management Services,0.016914330033596953
-6111.0,Elementary and Secondary Schools,0.053382663353206586
+6111.0,Elementary and Secondary Schools,0.05338266335320659
 6112.0,Junior Colleges,0.3654455478220087
 6113.0,"Colleges, Universities, and Professional Schools",0.3654455478220087
-6114.0,Business Schools and Computer and Management Training,0.15506439481715054
-6115.0,Technical and Trade Schools,0.15506439481715054
+6114.0,Business Schools and Computer and Management Training,0.15506439481715056
+6115.0,Technical and Trade Schools,0.15506439481715056
 6116.0,Other Schools and Instruction,0.15216785649616155
 6117.0,Educational Support Services,0.15216785649616155
 6211.0,Offices of Physicians,0.08650178224210338
-6212.0,Offices of Dentists,0.0044731562845960835
+6212.0,Offices of Dentists,0.004473156284596083
 6213.0,Offices of Other Health Practitioners,0.13740868950360904
 6214.0,Outpatient Care Centers,0.13582145102994156
 6215.0,Medical and Diagnostic Laboratories,0.2245544539686382
@@ -248,23 +248,23 @@ naics4,naics4_title,workfromhome
 6241.0,Individual and Family Services,0.12455651727545174
 6242.0,"Community Food and Housing, and Emergency and Other Relief Services",0.13014476395122287
 6243.0,Vocational Rehabilitation Services,0.15512758571464508
-6244.0,Child Day Care Services,0.052344129372822415
-7111.0,Performing Arts Companies,0.1189262356576547
-7112.0,Spectator Sports,0.1189262356576547
-7113.0,"Promoters of Performing Arts, Sports, and Similar Events",0.1189262356576547
-7114.0,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.1189262356576547
-7115.0,"Independent Artists, Writers, and Performers",0.1189262356576547
-7121.0,"Museums, Historical Sites, and Similar Institutions",0.1037793402251192
-7131.0,Amusement Parks and Arcades,0.03470826130219483
-7132.0,Gambling Industries,0.03470826130219483
-7139.0,Other Amusement and Recreation Industries,0.03470826130219483
+6244.0,Child Day Care Services,0.05234412937282242
+7111.0,Performing Arts Companies,0.11892623565765467
+7112.0,Spectator Sports,0.11892623565765467
+7113.0,"Promoters of Performing Arts, Sports, and Similar Events",0.11892623565765467
+7114.0,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.11892623565765467
+7115.0,"Independent Artists, Writers, and Performers",0.11892623565765467
+7121.0,"Museums, Historical Sites, and Similar Institutions",0.10377934022511921
+7131.0,Amusement Parks and Arcades,0.034708261302194836
+7132.0,Gambling Industries,0.034708261302194836
+7139.0,Other Amusement and Recreation Industries,0.034708261302194836
 7211.0,Traveler Accommodation,0.07642824294292744
 7212.0,RV (Recreational Vehicle) Parks and Recreational Camps,0.031685648020744556
 7213.0,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0.031685648020744556
 7223.0,Special Food Services,0.022521386980807506
 7224.0,Drinking Places (Alcoholic Beverages),0.0
 7225.0,Restaurants and Other Eating Places,0.022521386980807506
-8111.0,Automotive Repair and Maintenance,0.018057717167854054
+8111.0,Automotive Repair and Maintenance,0.018057717167854058
 8112.0,Electronic and Precision Equipment Repair and Maintenance,0.0
 8113.0,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.08110677196479944
 8114.0,Personal and Household Goods Repair and Maintenance,0.07730984159259768
@@ -276,4 +276,4 @@ naics4,naics4_title,workfromhome
 8132.0,Grantmaking and Giving Services,0.25222217520537116
 8133.0,Social Advocacy Organizations,0.25222217520537116
 8134.0,Civic and Social Organizations,0.25222217520537116
-8139.0,"Business, Professional, Labor, Political, and Similar Organizations",0.17347992912605878
+8139.0,"Business, Professional, Labor, Political, and Similar Organizations",0.17347992912605875
