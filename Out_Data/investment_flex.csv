@@ -1,0 +1,303 @@
+naics4,naics4_title,flex_speed,flex_start
+1111,Oilseed and Grain Farming,0.0,0.0
+1112,Vegetable and Melon Farming,0.0,0.0
+1113,Fruit and Tree Nut Farming,0.0,0.0
+1114,"Greenhouse, Nursery, and Floriculture Production",0.0,0.0
+1119,Other Crop Farming,0.0,0.0
+1121,Cattle Ranching and Farming,0.0,0.0
+1122,Hog and Pig Farming,0.0,0.0
+1123,Poultry and Egg Production,0.0,0.0
+1124,Sheep and Goat Farming,0.0,0.0
+1125,Aquaculture,0.0,0.0
+1129,Other Animal Production,0.0,0.0
+1131,Timber Tract Operations,0.0,0.0
+1132,Forest Nurseries and Gathering of Forest Products,0.0,0.0
+1133,Logging,0.0,0.0
+1141,Fishing,0.0,0.0
+1142,Hunting and Trapping,0.0,0.0
+1151,Support Activities for Crop Production,0.0,0.0
+1152,Support Activities for Animal Production,0.0,0.0
+1153,Support Activities for Forestry,0.0,0.0
+2111,Oil and Gas Extraction,0.0,0.2
+2121,Coal Mining,0.0,0.0
+2122,Metal Ore Mining,0.0,0.5
+2123,Nonmetallic Mineral Mining and Quarrying,0.0,1.0
+2131,Support Activities for Mining,0.5,0.75
+2211,"Electric Power Generation, Transmission and Distribution",0.0,0.16666666666666666
+2212,Natural Gas Distribution,0.0,0.5
+2213,"Water, Sewage and Other Systems",0.0,0.25
+2361,Residential Building Construction,0.0,0.0
+2362,Nonresidential Building Construction,0.0,0.0
+2371,Utility System Construction,0.0,0.0
+2372,Land Subdivision,0.0,0.0
+2373,"Highway, Street, and Bridge Construction",0.0,0.0
+2379,Other Heavy and Civil Engineering Construction,0.0,0.0
+2381,"Foundation, Structure, and Building Exterior Contractors",1.0,1.0
+2382,Building Equipment Contractors,1.0,1.0
+2383,Building Finishing Contractors,1.0,1.0
+2389,Other Specialty Trade Contractors,1.0,1.0
+3111,Animal Food Manufacturing,0.0,0.6666666666666666
+3112,Grain and Oilseed Milling,0.0,0.0
+3113,Sugar and Confectionery Product Manufacturing,0.0,0.6666666666666666
+3114,Fruit and Vegetable Preserving and Specialty Food Manufacturing,0.0,0.0
+3115,Dairy Product Manufacturing,0.0,1.0
+3116,Animal Slaughtering and Processing,0.0,1.0
+3117,Seafood Product Preparation and Packaging,0.0,0.6666666666666666
+3118,Bakeries and Tortilla Manufacturing,0.0,0.6666666666666666
+3119,Other Food Manufacturing,0.0,1.0
+3121,Beverage Manufacturing,1.0,1.0
+3122,Tobacco Manufacturing,0.0,0.5
+3131,"Fiber, Yarn, and Thread Mills",0.0,0.0
+3132,Fabric Mills,0.0,0.0
+3133,Textile and Fabric Finishing and Fabric Coating Mills,0.0,0.0
+3141,Textile Furnishings Mills,1.0,0.0
+3149,Other Textile Product Mills,0.0,0.0
+3151,Apparel Knitting Mills,0.16666666666666666,0.25555555555555554
+3152,Cut and Sew Apparel Manufacturing,0.16666666666666666,0.25555555555555554
+3159,Apparel Accessories and Other Apparel Manufacturing,0.16666666666666666,0.25555555555555554
+3161,Leather and Hide Tanning and Finishing,0.0,0.0
+3162,Footwear Manufacturing,0.0,0.0
+3169,Other Leather and Allied Product Manufacturing,0.0,0.0
+3211,Sawmills and Wood Preservation,0.16666666666666666,0.25555555555555554
+3212,"Veneer, Plywood, and Engineered Wood Product Manufacturing",0.16666666666666666,0.25555555555555554
+3219,Other Wood Product Manufacturing,0.16666666666666666,0.25555555555555554
+3221,"Pulp, Paper, and Paperboard Mills",0.0,0.0
+3222,Converted Paper Product Manufacturing,0.0,0.0
+3231,Printing and Related Support Activities,1.0,1.0
+3241,Petroleum and Coal Products Manufacturing,0.0,0.0
+3251,Basic Chemical Manufacturing,0.0,0.0
+3252,"Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing",0.0,0.0
+3253,"Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing",0.0,0.0
+3254,Pharmaceutical and Medicine Manufacturing,0.2,0.4
+3255,"Paint, Coating, and Adhesive Manufacturing",0.0,0.0
+3256,"Soap, Cleaning Compound, and Toilet Preparation Manufacturing",0.2,0.2
+3259,Other Chemical Product and Preparation Manufacturing,0.125,0.1875
+3261,Plastics Product Manufacturing,0.0,0.25
+3262,Rubber Product Manufacturing,0.0,0.25
+3271,Clay Product and Refractory Manufacturing,0.16666666666666666,0.25555555555555554
+3272,Glass and Glass Product Manufacturing,0.16666666666666666,0.25555555555555554
+3273,Cement and Concrete Product Manufacturing,0.16666666666666666,0.25555555555555554
+3274,Lime and Gypsum Product Manufacturing,0.16666666666666666,0.25555555555555554
+3279,Other Nonmetallic Mineral Product Manufacturing,0.16666666666666666,0.25555555555555554
+3311,Iron and Steel Mills and Ferroalloy Manufacturing,0.0,0.3333333333333333
+3312,Steel Product Manufacturing from Purchased Steel,0.0,0.3333333333333333
+3313,Alumina and Aluminum Production and Processing,0.0,0.3333333333333333
+3314,Nonferrous Metal (except Aluminum) Production and Processing,0.0,0.0
+3315,Foundries,0.0,0.5
+3321,Forging and Stamping,0.3333333333333333,0.4444444444444444
+3322,Cutlery and Handtool Manufacturing,0.0,0.0
+3323,Architectural and Structural Metals Manufacturing,0.25,0.5
+3324,"Boiler, Tank, and Shipping Container Manufacturing",0.0,0.0
+3325,Hardware Manufacturing,0.3333333333333333,0.4444444444444444
+3326,Spring and Wire Product Manufacturing,0.3333333333333333,0.4444444444444444
+3327,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",0.3333333333333333,0.4444444444444444
+3328,"Coating, Engraving, Heat Treating, and Allied Activities",1.0,1.0
+3329,Other Fabricated Metal Product Manufacturing,0.0,0.0
+3331,"Agriculture, Construction, and Mining Machinery Manufacturing",0.0,0.14285714285714285
+3332,Industrial Machinery Manufacturing,0.0,0.14285714285714285
+3333,Commercial and Service Industry Machinery Manufacturing,0.0,0.0
+3334,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing",0.0,0.14285714285714285
+3335,Metalworking Machinery Manufacturing,0.0,0.3333333333333333
+3336,"Engine, Turbine, and Power Transmission Equipment Manufacturing",0.0,0.14285714285714285
+3339,Other General Purpose Machinery Manufacturing,0.0,0.0
+3341,Computer and Peripheral Equipment Manufacturing,0.0,0.0
+3342,Communications Equipment Manufacturing,0.0,0.0
+3343,Audio and Video Equipment Manufacturing,0.0,0.0
+3344,Semiconductor and Other Electronic Component Manufacturing,0.5,0.5
+3345,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",0.3333333333333333,0.3333333333333333
+3346,Manufacturing and Reproducing Magnetic and Optical Media,0.6666666666666666,0.3333333333333333
+3351,Electric Lighting Equipment Manufacturing,0.0,0.0
+3352,Household Appliance Manufacturing,0.0,0.0
+3353,Electrical Equipment Manufacturing,0.0,0.0
+3359,Other Electrical Equipment and Component Manufacturing,0.0,0.0
+3361,Motor Vehicle Manufacturing,0.5,0.5
+3362,Motor Vehicle Body and Trailer Manufacturing,0.0,0.0
+3363,Motor Vehicle Parts Manufacturing,0.0,0.0
+3364,Aerospace Product and Parts Manufacturing,0.2,0.2
+3365,Railroad Rolling Stock Manufacturing,0.2,0.2
+3366,Ship and Boat Building,0.2,0.2
+3369,Other Transportation Equipment Manufacturing,0.0,0.0
+3371,Household and Institutional Furniture and Kitchen Cabinet Manufacturing,0.16666666666666666,0.25555555555555554
+3372,Office Furniture (including Fixtures) Manufacturing,0.16666666666666666,0.25555555555555554
+3379,Other Furniture Related Product Manufacturing,0.16666666666666666,0.25555555555555554
+3391,Medical Equipment and Supplies Manufacturing,0.0,0.0
+3399,Other Miscellaneous Manufacturing,0.16666666666666666,0.16666666666666666
+4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,0.125,0.25
+4232,Furniture and Home Furnishing Merchant Wholesalers,0.125,0.25
+4233,Lumber and Other Construction Materials Merchant Wholesalers,0.0,0.0
+4234,Professional and Commercial Equipment and Supplies Merchant Wholesalers,0.0,1.0
+4235,Metal and Mineral (except Petroleum) Merchant Wholesalers,0.125,0.25
+4236,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers,0.0,0.0
+4237,"Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers",0.125,0.25
+4238,"Machinery, Equipment, and Supplies Merchant Wholesalers",0.25,0.25
+4239,Miscellaneous Durable Goods Merchant Wholesalers,0.125,0.25
+4241,Paper and Paper Product Merchant Wholesalers,0.2857142857142857,0.2857142857142857
+4242,Drugs and Druggists' Sundries Merchant Wholesalers,0.5,0.5
+4243,"Apparel, Piece Goods, and Notions Merchant Wholesalers",1.0,1.0
+4244,Grocery and Related Product Merchant Wholesalers,0.0,0.0
+4245,Farm Product Raw Material Merchant Wholesalers,0.2857142857142857,0.2857142857142857
+4246,Chemical and Allied Products Merchant Wholesalers,0.2857142857142857,0.2857142857142857
+4247,Petroleum and Petroleum Products Merchant Wholesalers,0.0,0.0
+4248,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",0.0,0.0
+4249,Miscellaneous Nondurable Goods Merchant Wholesalers,0.0,0.0
+4251,Wholesale Electronic Markets and Agents and Brokers,0.2,0.26666666666666666
+4411,Automobile Dealers,0.2857142857142857,0.2857142857142857
+4412,Other Motor Vehicle Dealers,0.2857142857142857,0.2857142857142857
+4413,"Automotive Parts, Accessories, and Tire Stores",0.2857142857142857,0.2857142857142857
+4421,Furniture Stores,0.2857142857142857,0.2857142857142857
+4422,Home Furnishings Stores,0.2857142857142857,0.2857142857142857
+4431,Electronics and Appliance Stores,0.0,0.0
+4441,Building Material and Supplies Dealers,0.2857142857142857,0.2857142857142857
+4442,Lawn and Garden Equipment and Supplies Stores,0.2857142857142857,0.2857142857142857
+4451,Grocery Stores,0.0,0.0
+4452,Specialty Food Stores,0.0,0.0
+4453,"Beer, Wine, and Liquor Stores",0.0,0.0
+4461,Health and Personal Care Stores,0.2857142857142857,0.2857142857142857
+4471,Gasoline Stations,0.0,0.0
+4481,Clothing Stores,1.0,0.0
+4482,Shoe Stores,1.0,0.0
+4483,"Jewelry, Luggage, and Leather Goods Stores",1.0,0.0
+4511,"Sporting Goods, Hobby, and Musical Instrument Stores",0.2857142857142857,0.2857142857142857
+4512,Book Stores and News Dealers,0.2857142857142857,0.2857142857142857
+4522,Department Stores,0.2857142857142857,0.2857142857142857
+4523,"General Merchandise Stores, including Warehouse Clubs and Supercenters",0.2857142857142857,0.2857142857142857
+4531,Florists,0.2857142857142857,0.2857142857142857
+4532,"Office Supplies, Stationery, and Gift Stores",0.2857142857142857,0.2857142857142857
+4533,Used Merchandise Stores,0.2857142857142857,0.2857142857142857
+4539,Other Miscellaneous Store Retailers,0.2857142857142857,0.2857142857142857
+4541,Electronic Shopping and Mail-Order Houses,0.5,1.0
+4542,Vending Machine Operators,0.5,1.0
+4543,Direct Selling Establishments,0.5,1.0
+4811,Scheduled Air Transportation,0.18181818181818182,0.18181818181818182
+4812,Nonscheduled Air Transportation,0.18181818181818182,0.18181818181818182
+4821,Rail Transportation,0.0,1.0
+4831,"Deep Sea, Coastal, and Great Lakes Water Transportation",0.0,0.0
+4832,Inland Water Transportation,0.0,0.0
+4841,General Freight Trucking,0.5,0.5
+4842,Specialized Freight Trucking,0.5,0.5
+4851,Urban Transit Systems,0.18181818181818182,0.18181818181818182
+4852,Interurban and Rural Bus Transportation,0.18181818181818182,0.18181818181818182
+4853,Taxi and Limousine Service,0.18181818181818182,0.18181818181818182
+4854,School and Employee Bus Transportation,0.18181818181818182,0.18181818181818182
+4855,Charter Bus Industry,0.18181818181818182,0.18181818181818182
+4859,Other Transit and Ground Passenger Transportation,0.18181818181818182,0.18181818181818182
+4861,Pipeline Transportation of Crude Oil,0.18181818181818182,0.18181818181818182
+4862,Pipeline Transportation of Natural Gas,0.18181818181818182,0.18181818181818182
+4869,Other Pipeline Transportation,0.18181818181818182,0.18181818181818182
+4871,"Scenic and Sightseeing Transportation, Land",0.0,0.0
+4872,"Scenic and Sightseeing Transportation, Water",0.0,0.0
+4879,"Scenic and Sightseeing Transportation, Other",0.0,0.0
+4881,Support Activities for Air Transportation,0.0,0.0
+4882,Support Activities for Rail Transportation,0.0,0.0
+4883,Support Activities for Water Transportation,0.0,0.0
+4884,Support Activities for Road Transportation,0.0,0.0
+4885,Freight Transportation Arrangement,0.0,0.0
+4889,Other Support Activities for Transportation,0.0,0.0
+4911,Postal Service,0.18181818181818182,0.18181818181818182
+4921,Couriers and Express Delivery Services,0.0,0.0
+4922,Local Messengers and Local Delivery,0.0,0.0
+4931,Warehousing and Storage,0.5,0.0
+5111,"Newspaper, Periodical, Book, and Directory Publishers",1.0,1.0
+5112,Software Publishers,0.0,1.0
+5121,Motion Picture and Video Industries,0.5,0.6
+5122,Sound Recording Industries,0.5,0.6
+5151,Radio and Television Broadcasting,0.0,0.0
+5152,Cable and Other Subscription Programming,0.0,0.0
+5173,Wired and Wireless Telecommunications Carriers,0.5,0.5
+5174,Satellite Telecommunications,0.5,0.5
+5179,Other Telecommunications,0.5,0.5
+5182,"Data Processing, Hosting, and Related Services",0.6,0.6
+5191,Other Information Services,0.5,0.6
+5211,Monetary Authorities-Central Bank,0.34210526315789475,0.42105263157894735
+5221,Depository Credit Intermediation,0.25,0.4166666666666667
+5222,Nondepository Credit Intermediation,0.75,0.5
+5223,Activities Related to Credit Intermediation,1.0,1.0
+5231,Securities and Commodity Contracts Intermediation and Brokerage,0.2857142857142857,0.2857142857142857
+5232,Securities and Commodity Exchanges,0.2857142857142857,0.2857142857142857
+5239,Other Financial Investment Activities,0.2857142857142857,0.2857142857142857
+5241,Insurance Carriers,0.6666666666666666,0.6666666666666666
+5242,"Agencies, Brokerages, and Other Insurance Related Activities",0.3333333333333333,0.5
+5251,Insurance and Employee Benefit Funds,0.0,0.0
+5259,Other Investment Pools and Funds,0.0,0.25
+5311,Lessors of Real Estate,0.2,0.2
+5312,Offices of Real Estate Agents and Brokers,0.2,0.2
+5313,Activities Related to Real Estate,0.2,0.2
+5321,Automotive Equipment Rental and Leasing,0.0,0.0
+5322,Consumer Goods Rental,0.0,0.0
+5323,General Rental Centers,0.0,0.0
+5324,Commercial and Industrial Machinery and Equipment Rental and Leasing,0.0,0.0
+5331,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),0.18181818181818182,0.18181818181818182
+5411,Legal Services,0.0,0.0
+5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",0.5,1.0
+5413,"Architectural, Engineering, and Related Services",0.25,0.25
+5414,Specialized Design Services,0.75,1.0
+5415,Computer Systems Design and Related Services,0.5555555555555556,0.7777777777777778
+5416,"Management, Scientific, and Technical Consulting Services",0.36363636363636365,0.45454545454545453
+5417,Scientific Research and Development Services,0.0,0.0
+5418,"Advertising, Public Relations, and Related Services",0.0,1.0
+5419,"Other Professional, Scientific, and Technical Services",0.0,0.0
+5611,Office Administrative Services,0.2,0.6
+5612,Facilities Support Services,0.0,1.0
+5613,Employment Services,0.2,0.6
+5614,Business Support Services,0.2,0.6
+5615,Travel Arrangement and Reservation Services,0.0,0.5
+5616,Investigation and Security Services,0.0,0.0
+5617,Services to Buildings and Dwellings,0.2,0.6
+5619,Other Support Services,1.0,1.0
+5621,Waste Collection,0.2,0.6
+5622,Waste Treatment and Disposal,0.2,0.6
+5629,Remediation and Other Waste Management Services,0.2,0.6
+6111,Elementary and Secondary Schools,0.0,0.0
+6112,Junior Colleges,0.5,0.5
+6113,"Colleges, Universities, and Professional Schools",0.0,0.0
+6114,Business Schools and Computer and Management Training,1.0,1.0
+6115,Technical and Trade Schools,0.5,0.5
+6116,Other Schools and Instruction,0.5,0.5
+6117,Educational Support Services,0.5,0.5
+6211,Offices of Physicians,0.0,0.5
+6212,Offices of Dentists,0.0,0.5
+6213,Offices of Other Health Practitioners,0.0,0.5
+6214,Outpatient Care Centers,0.0,0.0
+6215,Medical and Diagnostic Laboratories,0.0,0.5
+6216,Home Health Care Services,0.0,1.0
+6219,Other Ambulatory Health Care Services,0.0,0.5
+6221,General Medical and Surgical Hospitals,0.0,0.3333333333333333
+6222,Psychiatric and Substance Abuse Hospitals,0.0,0.3333333333333333
+6223,Specialty (except Psychiatric and Substance Abuse) Hospitals,0.0,0.3333333333333333
+6231,Nursing Care Facilities (Skilled Nursing Facilities),0.0,0.0
+6232,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",0.0,0.0
+6233,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,0.0,0.0
+6239,Other Residential Care Facilities,0.0,0.0
+6241,Individual and Family Services,0.25,0.25
+6242,"Community Food and Housing, and Emergency and Other Relief Services",0.25,0.25
+6243,Vocational Rehabilitation Services,0.25,0.25
+6244,Child Day Care Services,0.25,0.25
+7111,Performing Arts Companies,0.5,0.5
+7112,Spectator Sports,0.5,0.5
+7113,"Promoters of Performing Arts, Sports, and Similar Events",0.5,0.5
+7114,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.5,0.5
+7115,"Independent Artists, Writers, and Performers",0.5,0.5
+7121,"Museums, Historical Sites, and Similar Institutions",0.5,0.5
+7131,Amusement Parks and Arcades,0.5,0.5
+7132,Gambling Industries,0.5,0.5
+7139,Other Amusement and Recreation Industries,0.5,0.5
+7211,Traveler Accommodation,0.0,0.0
+7212,RV (Recreational Vehicle) Parks and Recreational Camps,0.0,0.0
+7213,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0.0,0.0
+7223,Special Food Services,0.0,0.0
+7224,Drinking Places (Alcoholic Beverages),0.0,0.0
+7225,Restaurants and Other Eating Places,0.0,0.0
+8111,Automotive Repair and Maintenance,0.6666666666666666,0.16666666666666666
+8112,Electronic and Precision Equipment Repair and Maintenance,0.6666666666666666,0.16666666666666666
+8113,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.6666666666666666,0.16666666666666666
+8114,Personal and Household Goods Repair and Maintenance,0.6666666666666666,0.16666666666666666
+8121,Personal Care Services,0.6666666666666666,0.16666666666666666
+8122,Death Care Services,0.6666666666666666,0.16666666666666666
+8123,Drycleaning and Laundry Services,0.6666666666666666,0.16666666666666666
+8129,Other Personal Services,0.6666666666666666,0.16666666666666666
+8131,Religious Organizations,1.0,0.0
+8132,Grantmaking and Giving Services,1.0,1.0
+8133,Social Advocacy Organizations,0.6666666666666666,0.0
+8134,Civic and Social Organizations,0.6666666666666666,0.16666666666666666
+8139,"Business, Professional, Labor, Political, and Similar Organizations",0.0,0.0
+8141,Private Households,0.6666666666666666,0.16666666666666666

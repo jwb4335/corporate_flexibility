@@ -1,0 +1,64 @@
+Samples selected:
+      ATUS 2017
+      ATUS 2018
+File Type:                    rectangular
+Case Selection:               No
+  Variable               Columns        Len   2017    2018    
+  YEAR               1   1-5            5     X       X       
+  CASEID             1   6-19          14     X       X       
+  PERNUM             2  20-21           2     X       X       
+  LINENO             2  22-24           3     X       X       
+  WT06               2  25-41          17     X       X       
+  LVWT               2  42-57          16     X       X       
+
+Variable Availability Key:
+All Years X - available in this sample
+All Years . - not available in this sample
+
+RECTYPE   Record type
+1         Household
+2         Person
+3         Activity
+4         Who
+5         Eldercare
+
+PERNUM              Person number (general)
+01                  1
+02                  2
+03                  3
+04                  4
+05                  5
+06                  6
+07                  7
+08                  8
+09                  9
+10                  10
+11                  11
+12                  12
+13                  13
+14                  14
+15                  15
+16                  16
+
+LINENO              Person line number
+001                 1
+002                 2
+003                 3
+004                 4
+005                 5
+006                 6
+007                 7
+008                 8
+009                 9
+010                 10
+011                 11
+012                 12
+013                 13
+014                 14
+015                 15
+016                 16
+017                 17
+018                 18
+019                 19
+999                 NIU (Not in universe)
+
