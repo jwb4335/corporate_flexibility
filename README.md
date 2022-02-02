@@ -17,7 +17,7 @@ All code is contained in subdirectory [Code](./Code/):
 - ```investment_flex.py``` contains functions that build the investment flexibility measure
   - Please note: the underlying data to build this measure comes from the Duke/CFO survey, which is not available publicly, so only the code to produce the measure and the measure itself are included. 
 - ```customer_interactions.py``` contains functions that build the customer interactions measure (direct, indirect, and combined)
-- ```fixed_cost_share.py contains``` functions that build the fixed cost share measure
+- ```fixed_cost_share.py``` contains functions that build the fixed cost share measure
 - ```runfile.py``` downloads the data and then compiles the four measures
 ## Replication instructions
 #### Download and run code
