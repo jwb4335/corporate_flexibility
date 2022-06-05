@@ -8,7 +8,7 @@ Please read Section 2 of the [paper](./Paper.pdf) and specifically the Data Appe
 - [Customer Interactions](./Out_Data/cust_int.csv) - four-digit NAICS measure of importance of interactions with customers/consumers to a firm's business that captures both direct customer interactions and "indirect" customer interactions (i.e., the importance of direct customer interactions of downstream industries)
   - The main measure of customer interactions is ```cust_int_tot```, which is a weighted average of the direct and indirect measures of customer interactions
 - [Fixed Cost Share](./Out_Data/fixed_cost_share.csv) - four-digit NAICS measure of the relative importance of fixed costs (to variable costs) for a firm's business
-  - The main measure of fixed cost share if ```fc_ind```
+  - The main measure of fixed cost share is named ```fc_ind```
 
 ## Code
 All code is contained in subdirectory [Code](./Code/):
